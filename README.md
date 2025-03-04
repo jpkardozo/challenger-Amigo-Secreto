@@ -1,8 +1,8 @@
 <img loading="lazy" src="https://i.imgur.com/yZXBds8.png" width="1200" height="292"/>
 
-# Jogo de Amigo Secreto
+# Jogo do Amigo Secreto
 
-Este é um jogo bastante simples de **Amigo Secreto** em JavaScript, onde os participantes são sorteados aleatoriamente. O jogo permite adicionar nomes, realizar o sorteio e mostrar o resultado.
+Este é um jogo bastante simples do **Amigo Secreto** em JavaScript, onde os participantes são sorteados aleatoriamente. O jogo permite adicionar nomes, realizar o sorteio e mostrar o resultado.
 
 ## Funcionalidades
 
@@ -27,3 +27,7 @@ O código JavaScript que realiza as principais funções:
 - adicionarNomes: Adiciona nomes à lista de participantes.
 - atualizarLista: Exibe a lista atualizada de participantes.
 - sortearAmigo: Realiza o sorteio dos amigos secretos e exibe o resultado.
+
+## DEPLOY do projeto
+o Deploy do projeto foi feito no site vercel, que pode ser conferido no link a seguir: 
+<a href="https://challenger-amigo-secreto-nine.vercel.app/">Projeto Amigo Secreto</a>
